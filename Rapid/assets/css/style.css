@@ -379,7 +379,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .mobile-nav-toggle i {
   margin: 18px 18px 0 0;
-  color: #065e77;
+  color: black; /* AO */
 }
 
 .mobile-nav-overly {
@@ -1238,7 +1238,7 @@ section {
 }
 
 #faq #faq-list a.collapse {
-  color: #1bb1dc;
+  color: #ad7d37;  /* AO */
 }
 
 #faq #faq-list a.collapsed {
@@ -1287,7 +1287,7 @@ section {
 .breadcrumbs ol li + li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #555186;
+  color:black; /* AO*/
   content: "/";
 }
 
@@ -1402,7 +1402,7 @@ section {
   padding: 2px 0 2px 0;
   line-height: 1;
   font-family: "Montserrat", sans-serif;
-  color: #413e66;
+  color:#ad7d37;
   font-weight: 400;
   letter-spacing: 3px;
   text-transform: uppercase;
@@ -1413,13 +1413,13 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Montserrat", sans-serif;
-  color: #535074;
+  color: black; /* AO*/
 }
 
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #1bb1dc;
+  background: #ad7d37; /* AO */
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1432,7 +1432,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #0a98c0;
+  background: black;
   color: #fff;
 }
 
@@ -1445,7 +1445,7 @@ section {
 #footer .footer-top h4 {
   font-size: 14px;
   font-weight: bold;
-  color: #413e66;
+  color: #ad7d37;
   text-transform: uppercase;
   position: relative;
   padding-bottom: 10px;
@@ -1470,11 +1470,11 @@ section {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #696592;
+  color: black; /* AO */
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #1bb1dc;
+  color: #ad7d37; /* AO */
 }
 
 #footer .footer-top .footer-contact {
@@ -1497,8 +1497,8 @@ section {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"] {
-  background: #1bb1dc;
-  border: 1px solid #1bb1dc;
+  background: black;
+  border: 1px solid #ad7d37;
   width: 35%;
   padding: 6px 0;
   text-align: center;
@@ -1508,7 +1508,7 @@ section {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"]:hover {
-  background: #0a98c0;
+  background: #ad7d37;
 }
 
 #footer .php-email-form .validate {
@@ -1569,7 +1569,7 @@ section {
 }
 
 #footer .php-email-form input::focus, #footer .php-email-form textarea::focus {
-  background-color: #1bb1dc;
+  background-color: black;
 }
 
 #footer .php-email-form input {
@@ -1581,7 +1581,7 @@ section {
 }
 
 #footer .php-email-form button[type="submit"] {
-  background: #1bb1dc;
+  background: black; /* AO */
   border: 0;
   border-radius: 3px;
   padding: 8px 30px;
@@ -1590,7 +1590,7 @@ section {
 }
 
 #footer .php-email-form button[type="submit"]:hover {
-  background: #0a98c0;
+  background: #ad7d37; /* AO */
   cursor: pointer;
 }
 
@@ -1615,7 +1615,7 @@ section {
 #footer .copyright {
   text-align: center;
   padding-top: 30px;
-  color: #535074;
+  color: #ad7d37;
   font-size: 15px;
 }
 
@@ -1623,13 +1623,13 @@ section {
   text-align: center;
   font-size: 14px;
   padding-top: 4px;
-  color: #8582a8;
+  color: #8582a8black;
 }
 
 #footer .credits a {
-  color: #1bb1dc;
+  color: #ad7d37;
 }
 
 #footer .credits a:hover {
-  color: #0a98c0;
+  color: black;
 }
