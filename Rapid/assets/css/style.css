@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  color: #1bb1dc;
+  color:#ad7d37;/*changed from #1bb1dc AO*/
   transition: 0.5s;
 }
 
 a:hover, a:active, a:focus {
-  color: #0a98c0;
+  color: #ad7d37;
   outline: none;
   text-decoration: none;
 }
@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #1bb1dc;
+  background: #ad7d37; /*changed from #1bb1dc AO*/
   color: #fff;
   width: 44px;
   height: 44px;
@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #1bb1dc;
+  border-top: 6px solid #ad7d37; /* changed from #1bb1dc  AO*/
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -138,7 +138,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #topbar .social-links a {
-  color: #413e66;
+  color: #ad7d37; /* changed from #413e66 AO */ 
   padding-left: 20px;
   display: inline-block;
   line-height: 1px;
@@ -185,7 +185,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a {
-  color: #413e66;
+  color: #ad7d37; /* changed from AO */
 }
 
 #header .logo img {
@@ -226,7 +226,7 @@ h1, h2, h3, h4, h5, h6 {
 .main-nav a {
   display: block;
   position: relative;
-  color: #413e66;
+  color: #ad7d37;/* AO*/
   padding: 10px 0;
   transition: 0.3s;
   font-size: 14px;
@@ -236,7 +236,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main-nav a:hover, .main-nav .active > a, .main-nav li:hover > a {
-  color: #1bb1dc;
+  color: black; /* AO*/
   text-decoration: none;
 }
 
@@ -444,14 +444,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .intro-info h2 {
-  color: #413e66;
+  color: black; /* changed from #413e66 AO */
   margin-bottom: 40px;
   font-size: 48px;
   font-weight: 700;
 }
 
 #hero .intro-info h2 span {
-  color: #1bb1dc;
+  color: #ad7d37; /* changed frm #1bb1dc AO */
 }
 
 @media (max-width: 767px) {
@@ -472,12 +472,12 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #1bb1dc;
+  background:black; /* AO*/
   color: #fff;
 }
 
 #hero .intro-info .btn-get-started:hover, #hero .intro-info .btn-services:hover {
-  background: #0a98c0;
+  background:#ad7d37; /*AO*/
 }
 
 /*--------------------------------------------------------------
@@ -491,7 +491,7 @@ section {
 --------------------------------*/
 .section-header h3 {
   font-size: 36px;
-  color: #413e66;
+  color: black; /* AO*/
   text-align: center;
   font-weight: 700;
   position: relative;
@@ -503,7 +503,7 @@ section {
   margin: auto;
   font-size: 15px;
   padding-bottom: 60px;
-  color: #535074;
+  color: black;/* AO*/
   width: 50%;
 }
 
