@@ -530,13 +530,13 @@ section {
 }
 
 #about .about-content h2 {
-  color: #413e66;
+  color: black; /* AO*/
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
 }
 
 #about .about-content h3 {
-  color: #696592;
+  color: #ad7d37; /* AO */
   font-weight: 400;
   font-size: 22px;
   font-style: italic;
@@ -554,7 +554,7 @@ section {
 #about .about-content ul li i {
   font-size: 20px;
   padding-right: 4px;
-  color: #1bb1dc;
+  color:#ad7d37; /* AO */
 }
 
 #about .about-img {
@@ -645,7 +645,7 @@ section {
 }
 
 #services .box:hover .title a {
-  color: #1bb1dc;
+  color:#ad7d37; /* AO */
 }
 
 #services .description {
@@ -681,14 +681,14 @@ section {
   font-size: 24px;
   font-weight: 600;
   margin-left: 56px;
-  color: #413e66;
+  color: #ad7d37;
   margin-bottom: 5px;
 }
 
 #why-us .why-us-content .features p {
   font-size: 16px;
   margin-left: 56px;
-  color: #555186;
+  color: black; /* AO */
 }
 
 #why-us .counters {
